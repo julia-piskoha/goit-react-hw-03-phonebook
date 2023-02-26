@@ -1,0 +1,18 @@
+.filter_label {
+  margin-left: 20px;
+  font-size: 16px;
+  color: rgb(86, 170, 142);
+}
+.filter_input {
+  display: flex;
+  margin-left: 20px;
+  background-color: rgb(156, 206, 189);
+  border: none;
+  width: 200px;
+  height: 20px;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(234, 240, 238);
+  margin-bottom: 20px;
+}

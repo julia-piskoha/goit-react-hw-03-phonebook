@@ -1,0 +1,38 @@
+.phonebook_input {
+  display: flex;
+  margin-left: 20px;
+  background-color: rgb(156, 206, 189);
+  border: none;
+  width: 200px;
+  height: 20px;
+  border-radius: 8px;
+  padding: 10px;
+  font-size: 20px;
+  color: rgb(234, 240, 238);
+}
+.phonebook_input:hover,
+.phonebook_input:focus {
+  background-color: rgb(119, 184, 162);
+}
+.phonebook_label {
+  margin-left: 20px;
+  font-size: 16px;
+  color: rgb(86, 170, 142);
+}
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-left: 20px;
+  color: rgb(86, 170, 142);
+}
+.btn_submit {
+  padding: 5px;
+  width: 100px;
+  height: 30px;
+  margin-left: 20px;
+  color: rgb(234, 240, 238);
+  background-color: rgb(156, 206, 189);
+  border-radius: 8px;
+  margin-top: 20px;
+  border: none;
+}
